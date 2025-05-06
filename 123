@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>插入图片示例</title>
+</head>
+<body>
+    <h1>这是两张图片示例</h1>
+    
+    <!-- 第一张图片 -->
+    <div>
+        <img src="image1.jpg" alt="图片1描述" width="500">
+        <p>这是第一张图片说明</p>
+    </div>
+
+    <!-- 第二张图片 -->
+    <div>
+        <img src="images/image2.png" alt="图片2描述" style="width: 600px; height: auto;">
+        <p>这是第二张图片说明</p>
+    </div>
+
+</body>
+</html>
